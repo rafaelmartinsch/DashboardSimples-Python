@@ -1,8 +1,6 @@
-Pada rodar a aplicação:
+Para rodar a aplicação:
 
-pip install streamlit
-pip install pandas
-pip install plotly
+pip install streamlit, pandas, plotly
 
 streamlit nomearquivo.py
 
